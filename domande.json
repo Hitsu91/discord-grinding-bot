@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Quali sono i principi della programmazione generica?",
+    "answers": [
+      "Polimorfismo, Incapsulamento e ereditarietà",
+      "Sequenza, Selezione e Iterazione",
+      "Comando e risposta",
+      "Override e Overload"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Quali sono i principi della programmazione OOP?",
+    "answers": [
+      "Polimorfismo, Incapsulamento e ereditarietà",
+      "Sequenza, Selezione e Iterazione",
+      "Comando e risposta",
+      "Override e Overload"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Quali sono gli iteratori in java?",
+    "answers": [
+      "IF-ELSE IF-ELSE, Switch, Operatore ternario",
+      "For, While, do-while, foreach",
+      "AND OR NOT",
+      "Override e Overload"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Quali sono i selettori in java?",
+    "answers": [
+      "IF-ELSE IF-ELSE, Switch, Operatore ternario",
+      "For, While, do-while, foreach",
+      "AND OR NOT",
+      "Override e Overload"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Quali sono i principali operatori logici in java?",
+    "answers": [
+      "IF-ELSE IF-ELSE, Switch, Operatore ternario",
+      "For, While, do-while, foreach",
+      "AND OR NOT",
+      "Override e Overload"
+    ],
+    "correctAnswerIndex": 2
+  }
+]
