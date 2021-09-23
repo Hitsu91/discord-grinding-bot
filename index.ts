@@ -12,4 +12,4 @@ client.on('message', handleMessages);
 
 client.on('messageReactionAdd', answerQuestion);
 
-client.login('ODQ1MjUxNzQzMzYwNjE0NDUy.YKeQBw.nFD5F5yVtitA0R5yxSHUTT6N_BA');
+client.login(process.env.DISCORD_TOKEN);
